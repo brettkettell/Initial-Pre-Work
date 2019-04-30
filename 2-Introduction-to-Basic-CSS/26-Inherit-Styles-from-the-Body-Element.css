@@ -1,0 +1,11 @@
+/*I learned to give everything in the body an inherited color from the body tag and how to asign the font family */
+<style>
+  body {
+    background-color: black;
+    color: green;
+    font-family: monospace;
+  }
+
+</style>
+
+<h1>Hello World</h1>

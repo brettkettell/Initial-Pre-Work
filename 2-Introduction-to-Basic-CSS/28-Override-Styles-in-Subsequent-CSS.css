@@ -1,0 +1,15 @@
+/*I learned that if you have two or more of the same color class the last one is the one that will overide the color*/
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+  .blue-text{
+    color:blue;
+  }
+</style>
+<h1 class="pink-text blue-text">Hello World!</h1>

@@ -1,0 +1,13 @@
+/*I learned how to overide a less specific color by giving a more detailed class */
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text{
+    color:pink;
+  }
+</style>
+
+<h1 class="pink-text">Hello World!</h1>
