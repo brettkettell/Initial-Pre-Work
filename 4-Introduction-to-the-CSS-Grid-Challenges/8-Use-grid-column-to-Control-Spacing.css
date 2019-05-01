@@ -1,0 +1,10 @@
+/*I learned how to center a block element by using margin: auto */
+<style>
+  div {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+  }
+</style>
+<div></div>

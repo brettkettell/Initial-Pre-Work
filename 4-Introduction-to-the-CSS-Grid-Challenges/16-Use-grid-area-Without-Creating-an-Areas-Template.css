@@ -1,0 +1,6 @@
+/*I learned how to set the background using an url() to link to and image  */
+<style>
+  body {
+    background: url(https://i.imgur.com/MJAkxbh.png);
+  }
+</style>

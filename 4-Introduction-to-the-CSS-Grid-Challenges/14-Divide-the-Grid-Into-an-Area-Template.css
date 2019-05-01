@@ -1,0 +1,14 @@
+/*I learned how to set a linear-gradient backgorund color which makes it so the two colors fade into each other in the background of an element */
+<style>
+
+  div{
+    border-radius: 20px;
+    width: 70%;
+    height: 400px;
+    margin: 50px auto;
+    background:linear-gradient(35deg, #CCFFFF, #FFCCCC);
+  }
+
+</style>
+
+<div></div>
